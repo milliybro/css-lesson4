@@ -1,0 +1,72 @@
+.links {
+   background-color: rgb(40, 42, 53);
+   height: 80px;
+   text-align: center;
+   font-size: 25px;
+   word-spacing: 20px;
+   padding: 5px;
+   line-height: 80px;
+}
+
+nav a {
+   color: white;
+   text-decoration: none;
+}
+
+.btn {
+   height: 50px;
+   font-size: 18px;
+   background-color: #04aa6d;
+   color: #ffffff;
+   border-color: #04aa6d;
+   border-radius: 5%;
+}
+#btn-1{
+   box-sizing: border-box;
+}
+.intro{
+   background-color:   rgb(217, 238, 225);
+   padding: 15px;
+}
+.btn-blc{
+   height: 50px;
+   font-size: 18px;
+   background-color: black;
+   color: white;
+   border-radius: 5%;
+   margin-top: 25px;
+}
+.easy-main{
+   padding: 20px;
+}
+.exemple-html{
+   padding: 20px;
+   background-color: rgb(231,233,235);
+
+}
+
+.exaple{
+   padding: 25px;
+}
+.exaple button{
+   height: 50px;
+   font-size: 18px;
+   border-radius: 5%;
+}
+.exp-js{
+   padding: 20px;
+   background-color: rgb(255,255,204);
+}
+.study a{
+   color: black;
+}
+.js-ver{
+   background-color: rgb(217,238,225);
+}
+.text-yel{
+   padding: 20px;
+   background-color: rgb(255,255,204);
+}
+.handling a{
+   color: black;
+}
